@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+   "layer0": "item/coal"
+  },
+  "overrides": [
+   { "predicate": {"custom_model_data": 1}, "model": "firegame/hats/red"},
+   { "predicate": {"custom_model_data": 2}, "model": "firegame/hats/green"},
+   { "predicate": {"custom_model_data": 3}, "model": "firegame/hats/blue"},
+   { "predicate": {"custom_model_data": 4}, "model": "firegame/hats/purple"},
+   { "predicate": {"custom_model_data": 5}, "model": "firegame/hats/gray"},
+   { "predicate": {"custom_model_data": 6}, "model": "firegame/hats/gold"}
+
+  ]
+ }
