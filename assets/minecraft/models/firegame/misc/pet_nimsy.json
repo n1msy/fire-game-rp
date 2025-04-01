@@ -33,5 +33,7 @@
 				"down": {"uv": [4, 8, 0, 4], "texture": "#2"}
 			}
 		}
-	]
+	],
+	"gui_light": "front",
+	"display": {}
 }
