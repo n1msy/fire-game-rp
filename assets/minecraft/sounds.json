@@ -1,0 +1,32 @@
+{
+  "firegame.pet.hurt.ow_1" : {
+    "subtitle": "Nimsy Ow 1",
+    "sounds":[
+    "custom/firegame/pet/hurt/ow_1"
+    ]
+  },
+  "firegame.pet.hurt.ow_2" : {
+    "subtitle": "Nimsy Ow 2",
+    "sounds":[
+    "custom/firegame/pet/hurt/ow_2"
+    ]
+  },
+  "firegame.pet.hurt.ow_3" : {
+    "subtitle": "Nimsy Ow 3",
+    "sounds":[
+    "custom/firegame/pet/hurt/ow_3"
+    ]
+  },
+  "firegame.pet.hurt.ow_4" : {
+    "subtitle": "Nimsy Ow 4",
+    "sounds":[
+    "custom/firegame/pet/hurt/ow_4"
+    ]
+  },
+  "firegame.pet.hurt.ow_5" : {
+    "subtitle": "Nimsy Ow 5",
+    "sounds":[
+    "custom/firegame/pet/hurt/ow_5"
+    ]
+  }
+}

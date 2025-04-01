@@ -7,6 +7,8 @@
    { "predicate": {"custom_model_data": 1}, "model": "firegame/hoses/default/backpack"},
    { "predicate": {"custom_model_data": 2}, "model": "firegame/hoses/default/hose"},
    { "predicate": {"custom_model_data": 3}, "model": "firegame/hoses/jetpack/backpack"},
-   { "predicate": {"custom_model_data": 4}, "model": "firegame/hoses/jetpack/button"}
+   { "predicate": {"custom_model_data": 4}, "model": "firegame/hoses/jetpack/button"},
+   { "predicate": {"custom_model_data": 5}, "model": "firegame/hoses/fludd/backpack"},
+   { "predicate": {"custom_model_data": 6}, "model": "firegame/hoses/fludd/handle"}
   ]
  }
