@@ -1,9 +1,0 @@
-{
-  "parent": "item/block",
-  "textures": {
-   "layer0": "item/light_blue_stained_glass"
-  },
-  "overrides": [
-   { "predicate": {"custom_model_data": 1}, "model": "firegame/misc/water"}
-  ]
- }
